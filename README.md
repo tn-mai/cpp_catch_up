@@ -6,6 +6,10 @@
 
 `Ctrl`キーを押しながらリンクをクリックすると、別タブで開きます。
 
+練習問題を実行するには、Googleアカウントにログインしてください。
+
+編集内容を保存するには、左上の「ファイル」メニューから「ドライブにコピーを保存」を選択し、コピーしたファイルで作業します。
+
 1. [エラーの直しかた](https://colab.research.google.com/github/tn-mai/cpp_catch_up/blob/main/cpp_catch_up_01_エラーの直しかた.ipynb)
 2. [変数](https://colab.research.google.com/github/tn-mai/cpp_catch_up/blob/main/cpp_catch_up_02_変数.ipynb)
 3. [if文](https://colab.research.google.com/github/tn-mai/cpp_catch_up/blob/main/cpp_catch_up_03_if文.ipynb)
@@ -15,3 +19,4 @@
 7. [関数](https://colab.research.google.com/github/tn-mai/cpp_catch_up/blob/main/cpp_catch_up_07_関数.ipynb)
 8. [参照とポインタ](https://colab.research.google.com/github/tn-mai/cpp_catch_up/blob/main/cpp_catch_up_08_参照とポインタ.ipynb)
 9. [クラス](https://colab.research.google.com/github/tn-mai/cpp_catch_up/blob/main/cpp_catch_up_09_クラス.ipynb)
+10. [標準ライブラリ](https://colab.research.google.com/github/tn-mai/cpp_catch_up/blob/main/cpp_catch_up_10_標準ライブラリ.ipynb)
